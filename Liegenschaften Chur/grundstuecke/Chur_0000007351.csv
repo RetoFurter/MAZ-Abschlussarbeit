@@ -1,0 +1,5 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+7351;Chur;Chur;Liegenschaft;148;0;0;Miteigentum;Carigiet Ferrari;Ursula Maria Klara;Untere Gasse 18;7000;Chur;2019-12-30 05:53:00.221081
+7351;Chur;Chur;Liegenschaft;148;0;0;Miteigentum;Ferrari;Manfred;Mostgasse 2;7208;Malans GR;2019-12-30 05:53:00.341131
+7351;Chur;Chur;Liegenschaft;148;0;0;Miteigentum;Hegger;Oliver;Araschgerstrasse 12a;7000;Chur;2019-12-30 05:53:00.502685
+7351;Chur;Chur;Liegenschaft;148;0;0;Miteigentum;Rohrer;Olivia;Araschgerstrasse 10;7000;Chur;2019-12-30 05:53:00.614697

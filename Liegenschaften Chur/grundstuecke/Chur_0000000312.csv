@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+312;Chur;Chur;Liegenschaft;706;0;0;Stockwerkeigentum;Diethelm;Gabriela;Meierweg 22;7000;Chur;2019-12-31 17:34:55.669446
+312;Chur;Chur;Liegenschaft;706;0;0;Stockwerkeigentum;Nussbaumer;Rico;Meierweg 22;7000;Chur;2019-12-31 17:34:55.784366
+312;Chur;Chur;Liegenschaft;706;0;0;Stockwerkeigentum;Schiess;Kurt;Meierweg 20a;7000;Chur;2019-12-31 17:34:55.897187

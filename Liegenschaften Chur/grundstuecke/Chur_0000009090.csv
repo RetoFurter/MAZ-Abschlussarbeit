@@ -1,0 +1,55 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Aeschbacher;Silvia;Feldblumenstrasse 45;8048;Zürich 48 Altstetten;2020-01-08 08:23:47.110470
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Alig;Johann Lorenz;Roterturmstrasse 19;7000;Chur;2020-01-08 08:23:47.235401
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Atanasova;Desislava;Loëstrasse 224;7000;Chur;2020-01-08 08:23:47.354739
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Bussmann;Josef;Giacomettistrasse 132;7000;Chur;2020-01-08 08:23:47.472764
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Caminada;Adalbert;Giacomettistrasse 136;7000;Chur;2020-01-08 08:23:47.592069
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Carnot;Chatrina;Giacomettistrasse 130;7000;Chur;2020-01-08 08:23:47.716078
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Carnot;Rudolf Joseph;;;;2020-01-08 08:23:47.837101
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Deplazes;Anton Alois;Giacomettistrasse 136;7000;Chur;2020-01-08 08:23:47.964388
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Deplazes;Donat;Tellostrasse 18;7000;Chur;2020-01-08 08:23:48.106793
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Deplazes;Thomas;Tellostrasse 18;7000;Chur;2020-01-08 08:23:48.224605
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Desiderio;Alfonso;;;;2020-01-08 08:23:48.341207
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Desiderio;Hermine Maria;Giacomettistrasse 134;7000;Chur;2020-01-08 08:23:48.459723
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Donati;Marianne;Aspermontstrasse 7;7000;Chur;2020-01-08 08:23:48.582538
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Ender;Eduard Anton Josef;Sonnacker 12;8905;Arni;2020-01-08 08:23:48.703059
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Ender;Johann Jakob 'David';Sonnacker 12;8905;Arni;2020-01-08 08:23:48.827961
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Fabiano;Giuseppe;Saluferstrasse 36;7000;Chur;2020-01-08 08:23:48.950958
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Fabiano;Nicole;Saluferstrasse 36;7000;Chur;2020-01-08 08:23:49.074489
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Gienal;Sonia;Giacomettistrasse 136;7000;Chur;2020-01-08 08:23:49.206129
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Gloor;Manuela;Giacomettistrasse 136;7000;Chur;2020-01-08 08:23:49.330995
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Hartmann Schenkel;Anita;Ackerstrasse 19a;8704;Herrliberg;2020-01-08 08:23:49.462121
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Hauser;Zäzilia;Giacomettistrasse 130;7000;Chur;2020-01-08 08:23:49.594190
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Hess;Evelyne;Badenerstrasse 378c;8004;Zürich Zustellkreis;2020-01-08 08:23:49.722646
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Hess;Hans Peter;Gaidlaweg 20;7204;Untervaz;2020-01-08 08:23:49.868934
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Hess;Vera;Casa Sulegl;7413;Fürstenaubruck;2020-01-08 08:23:49.989187
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Jost;Daniela Carla;Calandastrasse 31;7000;Chur;2020-01-08 08:23:50.109912
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Jost;Markus;Calandastrasse 31;7000;Chur;2020-01-08 08:23:50.230961
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Kind;Hilde 'Adelheid';Giacomettistrasse 134;7000;Chur;2020-01-08 08:23:50.355699
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Klages;Iva;Dalieba;7208;Malans GR;2020-01-08 08:23:50.474672
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Luciani;Giuseppe;Giacomettistrasse 130;7000;Chur;2020-01-08 08:23:50.598576
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Marti;Chantal;Weststrasse 12;7000;Chur;2020-01-08 08:23:50.719853
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Marti;Urs;Weststrasse 12;7000;Chur;2020-01-08 08:23:50.841249
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Müller;Kurt;;;;2020-01-08 08:23:50.966643
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Neustadt AG;;Industriestrasse 19;7000;Chur;2020-01-08 08:23:51.091136
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Nüssli;Rudolf;Giacomettistrasse 130;7000;Chur;2020-01-08 08:23:51.221480
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Peder;Silvio;Giacomettistrasse 136;7000;Chur;2020-01-08 08:23:51.349128
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Riederer;Werner;Chlei Rüfi 4;7203;Trimmis;2020-01-08 08:23:51.475956
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Ritter;Irene;Peter-Kaiser-Strasse 29;9493;Mauren FL;2020-01-08 08:23:51.628682
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Ruckstuhl;Felicitas Priska;Dorfstrasse 49;5430;Wettingen;2020-01-08 08:23:51.754072
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Rutzer;Marie Elisabeth;Waldau 2;7302;Landquart;2020-01-08 08:23:51.878840
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Schwarz;Guido;Giacomettistrasse 130;7000;Chur;2020-01-08 08:23:52.003555
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Schwarz;Silvia;Giacomettistrasse 130;7000;Chur;2020-01-08 08:23:52.133736
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Spinas;Jacqueline Huberte;Birsigstrasse 18;4054;Basel;2020-01-08 08:23:52.259011
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Stauffer;Ottilia;Giacomettistrasse 136;7000;Chur;2020-01-08 08:23:52.392755
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Stiftung Kantonsspital Graubünden;;Loëstrasse 170;7000;Chur;2020-01-08 08:23:52.519042
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Vieli;Edith;Giacomettistrasse 130;7000;Chur;2020-01-08 08:23:52.645549
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Wallier;Monica;Saluferstrasse 37;7000;Chur;2020-01-08 08:23:52.776880
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Wallier;Peter;Saluferstrasse 37;7000;Chur;2020-01-08 08:23:52.904389
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Wild;Ruth;Bahnstrasse 5;8603;Schwerzenbach;2020-01-08 08:23:53.031443
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Wolf;Jürg;Schellenbergstrasse 40;7000;Chur;2020-01-08 08:23:53.166249
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Wolf;Maria 'Angelina';Salvatorenstrasse 74;7000;Chur;2020-01-08 08:23:53.294093
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Wolf;Urs;Corneliusstrasse 3;8008;Zürich Zustellkreis;2020-01-08 08:23:53.424744
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Zogg;Andreas;Bât. A-Appt 6, Morne Ninine;97110;Le Gosier;2020-01-08 08:23:53.563061
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Zogg;Marianne;Heroldstrasse 25;7000;Chur;2020-01-08 08:23:53.693452
+9090;Chur;Chur;SelbstRecht, Baurecht;6501;0;0;Stockwerkeigentum;Zogg;Reto;Aehrenweg 6;7000;Chur;2020-01-08 08:23:53.830308

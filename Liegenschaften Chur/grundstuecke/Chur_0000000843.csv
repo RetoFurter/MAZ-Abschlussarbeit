@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+843;Chur;Chur;Liegenschaft;555;0;0;Gesamteigentum;Gasser;Georg;Rütisbergstrasse 5;8156;Oberhasli;2020-01-01 09:46:51.203695
+843;Chur;Chur;Liegenschaft;555;0;0;Gesamteigentum;Gasser;Josias Florian;Poststrasse 36;7000;Chur;2020-01-01 09:46:51.324694
+843;Chur;Chur;Liegenschaft;555;0;0;Gesamteigentum;Gasser;Lorenz;Chrebsbachstrasse 51;8162;Steinmaur;2020-01-01 09:46:51.443283

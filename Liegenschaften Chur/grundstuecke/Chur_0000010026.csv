@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+10026;Chur;Chur;SelbstRecht, Baurecht;288;0;0;Gesamteigentum;Müller;Julie 'Helene';Rotbuchenweg 17;7000;Chur;2020-01-11 00:58:49.585111
+10026;Chur;Chur;SelbstRecht, Baurecht;288;0;0;Gesamteigentum;Müller;Maya;;9050;Appenzell;2020-01-11 00:58:49.740542
+10026;Chur;Chur;SelbstRecht, Baurecht;288;0;0;Gesamteigentum;Reich;Heidi;;;;2020-01-11 00:58:49.856880

@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+20171;Chur;Chur;Liegenschaft;298;0;0;Gesamteigentum;Cagienard;Monika;Bahnhofstrasse 3;7302;Landquart;2020-01-14 23:05:56.469366
+20171;Chur;Chur;Liegenschaft;298;0;0;Gesamteigentum;Hassler;Serena;Wingert 28a;7026;Maladers;2020-01-14 23:05:56.616693
+20171;Chur;Chur;Liegenschaft;298;0;0;Gesamteigentum;Hassler;Urs;Wingert 28a;7026;Maladers;2020-01-14 23:05:56.731576

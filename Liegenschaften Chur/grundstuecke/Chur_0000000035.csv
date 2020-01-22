@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+35;Chur;Chur;Liegenschaft;233;0;0;Gesamteigentum;Alig;Remo Albert;Casa Miraval;7017;Flims Dorf;2019-12-28 13:18:56.514807
+35;Chur;Chur;Liegenschaft;233;0;0;Gesamteigentum;Alig;Silvia;Salisstrasse 4;7000;Chur;2019-12-28 13:18:56.646213
+35;Chur;Chur;Liegenschaft;233;0;0;Gesamteigentum;Alig;Urs Martin;Salisstrasse 4;7000;Chur;2019-12-28 13:18:56.757614

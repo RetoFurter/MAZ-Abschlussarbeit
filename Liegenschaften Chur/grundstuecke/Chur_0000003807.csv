@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+3807;Chur;Chur;Liegenschaft;716;0;0;Gesamteigentum;Caprez;Ruth;Süsswinkelgasse 18;7000;Chur;2020-01-02 08:16:20.042334
+3807;Chur;Chur;Liegenschaft;716;0;0;Gesamteigentum;Kaiser;Paul;Pfingstweidstrasse 98;8005;Zürich;2020-01-02 08:16:20.161449
+3807;Chur;Chur;Liegenschaft;716;0;0;Gesamteigentum;Senn;Iris;Engadinstrasse 19;7000;Chur;2020-01-02 08:16:20.294435

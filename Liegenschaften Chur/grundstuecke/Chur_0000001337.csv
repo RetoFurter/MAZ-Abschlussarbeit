@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+1337;Chur;Chur;Liegenschaft;354;0;0;Gesamteigentum;Eggenberger;Erika Hilda;Rheinstrasse 71;7000;Chur;2020-01-01 10:32:08.382275
+1337;Chur;Chur;Liegenschaft;354;0;0;Gesamteigentum;Eichenberger;Karin Prisca;Cunclisstrasse 14;7023;Haldenstein;2020-01-01 10:32:08.513578
+1337;Chur;Chur;Liegenschaft;354;0;0;Gesamteigentum;Federli;Esther Gisela;Sonnenstrasse 17;8331;Auslikon;2020-01-01 10:32:08.625870

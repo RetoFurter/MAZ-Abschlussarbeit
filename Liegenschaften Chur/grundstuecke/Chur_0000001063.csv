@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+1063;Chur;Chur;Liegenschaft;2295;0;0;Gesamteigentum;Filli;Anita;Chemin des Laurelles 42;1196;Gland;2020-01-01 10:01:02.926136
+1063;Chur;Chur;Liegenschaft;2295;0;0;Gesamteigentum;Filli;Leta;Fridlimattstrasse 13;8122;Binz;2020-01-01 10:01:03.047711
+1063;Chur;Chur;Liegenschaft;2295;0;0;Gesamteigentum;Filli;Tilla;Zilstrasse 7;8117;Fällanden;2020-01-01 10:01:03.159937

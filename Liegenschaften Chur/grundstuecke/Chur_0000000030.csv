@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+30;Chur;Chur;Liegenschaft;740;0;0;Miteigentum;Plumettaz;Verena Christina;Brückenstrasse 12;3005;Bern;2019-12-28 13:16:23.098064
+30;Chur;Chur;Liegenschaft;740;0;0;Miteigentum;Zinsli;Beat Jörg;Schindlerstrasse 17;8003;Zürich;2019-12-28 13:16:23.217272
+30;Chur;Chur;Liegenschaft;740;0;0;Miteigentum;Zinsli;Irene Esther;Kreuzstrasse 74;8645;Jona;2019-12-28 13:16:23.331157

@@ -1,0 +1,5 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+2929;Chur;Chur;Liegenschaft;301;0;0;Gesamteigentum;Janser;Rosmarie Ida;Bondastrasse 136;7000;Chur;2020-01-10 04:28:33.453386
+2929;Chur;Chur;Liegenschaft;301;0;0;Gesamteigentum;Kessler;Hermann Hans Ulrich;Feilchenstrasse 37;8032;Zürich 32 Neumünster;2020-01-10 04:28:33.571436
+2929;Chur;Chur;Liegenschaft;301;0;0;Gesamteigentum;Kessler;Klara Berta;;;;2020-01-10 04:28:33.683926
+2929;Chur;Chur;Liegenschaft;301;0;0;Gesamteigentum;Kessler;Ruth Klara;Storchengasse 8;7000;Chur;2020-01-10 04:28:33.798485

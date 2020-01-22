@@ -1,0 +1,5 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+3910;Chur;Chur;Liegenschaft;45;0;0;Miteigentum;Akra Probst;Laila;Freiestrasse 29;3000;Bern;2020-01-08 15:18:07.600843
+3910;Chur;Chur;Liegenschaft;45;0;0;Miteigentum;Probst;Andri Simon;Freiestrasse 29;3000;Bern;2020-01-08 15:18:07.716197
+3910;Chur;Chur;Liegenschaft;45;0;0;Miteigentum;Steiner;Amelie;Höhenweg 5;7000;Chur;2020-01-08 15:18:07.829955
+3910;Chur;Chur;Liegenschaft;45;0;0;Miteigentum;Steiner;Claudio;Höhenweg 5;7000;Chur;2020-01-08 15:18:07.947031

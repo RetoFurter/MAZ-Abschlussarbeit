@@ -1,0 +1,5 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+10035;Chur;Chur;SelbstRecht, Baurecht;312;0;0;Gesamteigentum;Aregger;Annemarie;Kaspar-Koppstrasse 77;6030;Ebikon;2020-01-11 01:00:08.356108
+10035;Chur;Chur;SelbstRecht, Baurecht;312;0;0;Gesamteigentum;Meier;Kurt Martin;Saluferstrasse 4;7000;Chur;2020-01-11 01:00:08.513886
+10035;Chur;Chur;SelbstRecht, Baurecht;312;0;0;Gesamteigentum;Meier;Paula 'Maria';Föhrenweg 25;7000;Chur;2020-01-11 01:00:08.631097
+10035;Chur;Chur;SelbstRecht, Baurecht;312;0;0;Gesamteigentum;Schmid;Irene;Kirchgasse Masans 78b;7000;Chur;2020-01-11 01:00:08.748945

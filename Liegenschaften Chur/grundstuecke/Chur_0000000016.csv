@@ -1,0 +1,4 @@
+Grundstueck-Nummer;Grundstueck-Gemeinde;Grundstueck-Ort;Grundstueck-Typ;Grundstueck-Flaeche;Grundstueck-Koordinate X;Grundstueck-Koordinate Y;Eigentumsart;Name;Vorname;Adresse;PLZ;Ort;Datum der Abfrage
+16;Chur;Chur;Liegenschaft;1234;0;0;Miteigentum;Foppa;Gion;Böschenstrasse 62;7000;Chur;2019-12-28 13:01:18.800065
+16;Chur;Chur;Liegenschaft;1234;0;0;Miteigentum;Foppa;Toni;Plantaweg 14;7000;Chur;2019-12-28 13:01:18.925092
+16;Chur;Chur;Liegenschaft;1234;0;0;Miteigentum;Foppa Müller;Martina;Spiegelbergstrasse 16;6318;Walchwil;2019-12-28 13:01:19.044867
