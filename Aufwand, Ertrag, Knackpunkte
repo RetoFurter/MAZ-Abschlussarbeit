@@ -1,0 +1,14 @@
+_Aufwand
+Projekt Chur:
+Auslesen GIS-Seite (Selenium, einfügen in Panda-Dataframe (5 Aufwand, ohne lange Downloadzeit)
+
+Gebäudeinformationen vom BFS runterladen (je Gemeinde, Wohnungen, Zimmerzahl, Bauperiode, Koordinaten)
+PDF mit Gebäudeinformationen vom BFS runterladen (1 Tag Programmieraufwand, ohne Downloadzeit)	
+
+PDF einlesen, auswerten, Dataframe (2 Tage)
+
+Kombination GIS-Dataframe mit BFS-Dataframe (Zuordnung der Koordination zu den Churer Liegenschaften und ihren Besitzern) (1 Tag)
+
+TOTAL AUFWAND: 9 Tage
+
+9.12.2019
