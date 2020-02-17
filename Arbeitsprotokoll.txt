@@ -1,0 +1,33 @@
+Arbeitsprotokoll
+
+Gemäss Programmiercode bin ich wie folgt vorgegangen:
+
+1. Skript erstellt, um Daten auf 
+
+https://stadtplan.chur.ch/mapplus/chur/index.php?lang=de&basemap=ortsplan&blop=1&x=2759500&y=1191000&zl=4&hl=0
+
+Herunterzuladen, via Selenium. Von Interesse sind die Besitzer der Grundstücke und die Art des Besitzes (Grundstückbesitz oder Baurecht). Diese Daten gelangten in ein erstes Dataframe.
+
+2. Da die geographischen Koordinaten der Grundstücke von der genannten Website nicht ausgelesen werden konnten, habe ich diese mit einem kleinen Umweg besorgt. 
+
+Das Eidg. Gebäude- und Wohnungsregister
+
+https://www.housing-stat.ch/de/start.html
+
+enthält für jedes Gebäude die Koordinaten; die Gebäude sind schweizweit mit einer Nummer bezeichnet, der sogenannten EGID-Nummer.
+
+3. Um die EGID-Nummern für die Churer Liegenschaften zu kennen, habe ich vom Eidg. Register eine CSV-Datei mit den EGID-Nummern aller Churer Gebäude bezogen.
+
+4. Anhand dieser CSV-Datei habe ich einen zweiten Skript erstellt, um zu allen Churer Gebäude alle Gebäudeinformationen, unter anderem die geographischen Koordinaten, vom Eidg. Gebäude- und Wohnungsregister herunterzuladen. Diese Daten sind abgespeichert in einzelnen PDF je Gebäude.
+
+5. Diese PDF habe ich via einem weiteren Skript ausgelesen und daraus ein zweites Dataframe erstellt.
+
+6. Ich habe sodann das erste und das zweite Dataframe gemerged und zudem zu einem Geodataframe umgewandelt.
+
+7. Dieses Geodataframe habe ich zu drei Datensätzen ausgebaut, die weiterverwendet werden können:
+
+Hausbesitzer_mit_Koordinaten.csv: Enthält sämtliche Gebäude auf dem Churer Gemeindegebiet mit den geographischen Koordinaten und den Informationen zu den Eigentümern. 
+
+Baurechtsnehmer_mit_Koordinaten.csv: Enthält sämtliche Gebäude auf dem Churer Gemeindegebiet mit den geographischen Koordinaten und den Informationen zu den Baurechtsnehmern des entsprechenden Gebäudes. 
+
+Liegenschaftsbesitzer_ohne_Koordinaten.csv': : Enthält sämtliche Liegenschaften auf dem Churer Gemeindegebiet OHNE geographische Koordinaten, aber mit sämtlichen Informationen zu den Eigentümern.
