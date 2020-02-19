@@ -18,6 +18,7 @@ fertig erstellte Datensätze:
 - Baurechtsnehmer_mit_Koordinaten.csv
 - Hausbesitzer_mit_Koordinaten.csv
 - Liegenschaftsbesitzer_ohne_Koordinaten.csv
+- alle_Gebäude_mit_Koordinaten.csv
 
 weitere Dateien
 - fehlerhafte_pdf.csv: benötigt zum Auslesen der pdf
